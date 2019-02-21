@@ -8,7 +8,7 @@
 
 - [x] [如何保存图片](https://github.com/xwtec/how-to/blob/master/database/tools/save-image-on-internet.md)
 - [x] [如何使用 git](https://github.com/xwtec/how-to/blob/master/database/tools/use-git.md)
-- [ ] [如何使用 commitizen](https://github.com/xwtec/how-to/blob/master/database/tools/use-commitizen.md)
+- [x] [如何使用 commitizen](https://github.com/xwtec/how-to/blob/master/database/tools/use-commitizen.md)
 
 ## 网站 websites
 
