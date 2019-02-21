@@ -1,3 +1,13 @@
+---
+title:
+  如何上传图片获得在线地址
+
+author:
+  - fisker <lionkay@gmail.com>
+
+contributors:
+---
+
 # 如何使用 markdown 语法
 
 ## 段落
