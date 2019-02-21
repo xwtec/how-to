@@ -126,7 +126,7 @@ windows
 
 ### git-flow 工作流程简介
 
-![git-workflow](https://raw.githubusercontent.com/xwtec/how-to/master/database/img/git-workflow.png 'git-workflow')
+![git-workflow](https://raw.githubusercontent.com/xwtec/how-to/master/database/img/git-workflow.png "git-workflow")
 
 Vincent Driessen 的分支模型是一个 git 分支和发布管理规范，用来帮助开发人员在大型的软件项目中追踪 features、hotfixes 和 releases。
 
