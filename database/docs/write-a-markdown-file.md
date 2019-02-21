@@ -230,10 +230,10 @@ _这是倾斜的文字_
 <!-- prettier-ignore-start -->
 
 ```markdown
-| 表头 | 表头 | 表头 |
-| :- | :-: | -: |
-| 左对齐 | 居中对齐 | 右对齐 |
-| 内容 | 内容 | 内容 |
+表头 | 表头 | 表头
+:- | :-: | -:
+左对齐 | 居中对齐 | 右对齐
+内容 | 内容 | 内容
 ```
 
 <!-- prettier-ignore-end -->
@@ -242,10 +242,10 @@ _这是倾斜的文字_
 
 <!-- prettier-ignore-start -->
 
-| 表头 | 表头 | 表头 |
-| :- | :-: | -: |
-| 左对齐 | 居中对齐 | 右对齐 |
-| 内容 | 内容 | 内容 |
+表头 | 表头 | 表头
+:- | :-: | -:
+左对齐 | 居中对齐 | 右对齐
+内容 | 内容 | 内容
 
 <!-- prettier-ignore-end -->
 
@@ -269,4 +269,8 @@ hello.world()
 
 ---
 
-参考链接: <https://www.jianshu.com/p/191d1e21f7ed>
+## 相关
+
+- [参考链接](https://www.jianshu.com/p/191d1e21f7ed)
+- [markdown](https://daringfireball.net/projects/markdown/syntax)
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
