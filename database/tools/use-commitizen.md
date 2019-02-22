@@ -16,8 +16,8 @@ contributors:
 npm install -g commitizen cz-conventional-changelog-emoji
 ```
 
-`commitizen` 可用 `cz-customizable` 代替 (略有不同，查看底部链接)
-`cz-conventional-changelog-emoji` 可用 `cz-conventional-changelog` 代替
+- `commitizen` 可用 `cz-customizable` 代替 (略有不同，查看底部链接)
+- `cz-conventional-changelog-emoji` 可用 `cz-conventional-changelog` 代替
 
 ## 配置
 
