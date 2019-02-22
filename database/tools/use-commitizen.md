@@ -21,6 +21,17 @@ npm install -g commitizen cz-conventional-changelog-emoji
 
 ## 配置
 
+全局配置
+
+```sh
+echo '{"path": "cz-conventional-changelog-emoji"}' > ~/.czrc
+
+# windows cmd
+echo {"path": "cz-conventional-changelog-emoji"} > "%HOMEDRIVE%%HOMEPATH%\.czrc"
+```
+
+项目配置
+
 ```sh
 commitizen init cz-conventional-changelog --yarn --dev --exact
 ```
