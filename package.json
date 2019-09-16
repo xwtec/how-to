@@ -11,7 +11,7 @@
     "lint": "markdownlint database/**/*.md"
   },
   "devDependencies": {
-    "@commitlint/cli": "8.1.0",
+    "@commitlint/cli": "8.2.0",
     "@commitlint/config-conventional": "8.2.0",
     "cz-conventional-changelog-emoji": "0.1.0",
     "husky": "3.0.5",
