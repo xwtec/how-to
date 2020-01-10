@@ -14,7 +14,7 @@
     "@commitlint/cli": "8.3.4",
     "@commitlint/config-conventional": "8.3.4",
     "cz-conventional-changelog-emoji": "0.1.0",
-    "husky": "4.0.4",
+    "husky": "4.0.5",
     "lint-staged": "9.5.0",
     "markdownlint-cli": "0.21.0",
     "prettier": "1.19.1"
